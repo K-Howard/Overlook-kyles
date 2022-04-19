@@ -1,6 +1,5 @@
 # Webpack Starter Kit
 
-test test
 
 ## Clone This Repo
 
